@@ -299,8 +299,6 @@ public class TicTacToe extends JPanel implements ActionListener {
                 }
             }
         }
-
-        
         public void mouseReleased(MouseEvent event) {
         }
         public void mouseEntered(MouseEvent event) {
